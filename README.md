@@ -4,8 +4,8 @@ This repository contains code to reproduce results from the paper "Output Embedd
 
 ## 0. TL;DR
 
-- Implementation of mu-centering: TODO
-- Implementation of mu-loss: TODO
+- Implementation of mu-centering: [here](https://github.com/abcde17/output-embedding-centering/blob/5732ce457547c2a652c49f0851cfa8e002b69921/nanoGPT/train.py#L628-L633)
+- Implementation of mu-loss: [here](https://github.com/abcde17/output-embedding-centering/blob/5732ce457547c2a652c49f0851cfa8e002b69921/nanoGPT/model.py#L249-L253)
 
 ## 1. Structure
 
